@@ -72,7 +72,7 @@
 .reg-head {
     text-transform: uppercase;
     padding: 14px 41px;
-    color: $theme-color;
+    color: white;
     background: transparent;
     border-radius: 50px;
     border: 2px solid $theme-color;
@@ -237,7 +237,6 @@
 			height: 40px;
 			line-height: 40px;
 			text-align: center;
-			color: $white-color;
 			border-radius: 50%;
 			margin: 0 2px;
 			-webkit-transition: all .3s ease;

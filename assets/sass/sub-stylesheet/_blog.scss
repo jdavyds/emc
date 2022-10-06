@@ -660,7 +660,7 @@
 
 // common social media
 .facebook {
-	background: $facebook;
+	// background: $facebook;
 	&:hover {
 		background: $white-color;
 		border-color: $facebook !important;
@@ -676,7 +676,7 @@
 	background: $white-color;
 	border-color: $twitter !important;
 	&:hover {
-		background: $twitter;
+		// background: $twitter;
 		i {
 			color: $white-color
 		}
@@ -686,7 +686,7 @@
 	}
 }
 .twitter-sm {
-	background: $twitter;
+	// background: $twitter;
 	&:hover {
 		background: $white-color;
 		border-color: $twitter;
@@ -699,9 +699,9 @@
 	}
 }
 .google {
-	background: $google;
+	// background: $google;
 	&:hover {
-		background: $white-color;
+		// background: $white-color;
 		border-color: $google !important;
 		i {
 			color: $google;
@@ -712,7 +712,7 @@
 	}
 }
 .linkedin {
-	background: $linkedin;
+	// background: $linkedin;
 	&:hover {
 		background: $white-color;
 		border-color: $linkedin !important;
@@ -725,7 +725,7 @@
 	}
 }
 .instagram {
-	background: $instagram;
+	// background: $instagram;
 	&:hover {
 		background: $white-color;
 		border-color: $instagram !important;
