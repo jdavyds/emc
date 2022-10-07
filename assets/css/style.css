@@ -8903,8 +8903,9 @@ button:focus, a:focus, a:hover, button:hover {
   display: inline-block;
 }
 .footer-content .footer-logo img {
-  width: 100%;
+  width: 250px;
   height: auto;
+  object-fit: contain;
 }
 .footer-section .footer-top .footer-content p {
   color: #3f485d;
