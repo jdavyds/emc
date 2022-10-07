@@ -252,7 +252,7 @@
 }
 .video {
   width: 100%;
-  height: 500px;
+  height: 450px;
   border-radius: 10px;
 }
 .nav-up {
@@ -374,7 +374,7 @@
 }
 
 #logo {
-  width: 80%;
+  width: auto;
   height: 80px;
 }
 #ham {
@@ -813,6 +813,7 @@
 #hero {
   height: unset;
   padding-bottom: 0;
+  margin-top: 50px;
 }
 #hero-col {
   width: 80%;
