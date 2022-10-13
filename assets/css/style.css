@@ -807,6 +807,9 @@
 #location {
   text-align: left;
 }
+#left {
+  text-align: left;
+}
 #loc-img {
   display: flex;
   align-self: flex-start;
