@@ -782,13 +782,16 @@
 .float {
   z-index: 11111111;
   position: fixed;
-  width: 60px;
+  width: fit-content;
   height: 60px;
   bottom: 60px;
   right: 60px;
+  padding: 0 10px;
+  gap: 5px;
   background-color: #21b43d;
+  color: white;
   text-align: center;
-  border-radius: 50%;
+  border-radius: 20px;
   box-shadow: 2px 2px 3px #999;
   display: flex;
   justify-items: center;
